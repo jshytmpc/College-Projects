@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @jshytmpc
-- 👀 I’m interested in Music production
-- 🌱 I’m currently learning Java (IT student)
-- 📫 How to reach me triddle.beast@gmail.com
+- 🌱 I’m now learning the fundamentals of Web development (HTML,CSS, javascript)
 
 <!---
 jshytmpc/jshytmpc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
