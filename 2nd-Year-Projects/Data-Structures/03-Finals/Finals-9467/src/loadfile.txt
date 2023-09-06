@@ -1,0 +1,8 @@
+4 nodes/vertices
+6 edges
+node 0 to node 1, weight: 1
+node 0 to node 2, weight: 4
+node 1 to node 2, weight: 5
+node 2 to node 0, weight: 2
+node 2 to node 3, weight: 1
+node 3 to node 3, weight: 1
