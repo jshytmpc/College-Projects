@@ -1,0 +1,96 @@
+year,term,courseNo,courseDesc,unit,preQ,grades
+1,1,IT 111,Introduction to Computing,2.0,NONE,94
+1,1,IT 111L,Introduction to Computing (Lab),1.0,NONE,89
+1,1,IT 112,Computer Programming 1,2.0,NONE,76
+1,1,IT 112L,Computer Programming 1 (Lab),1.0,NONE,76
+1,1,IT 113,Discrete Mathematics,3.0,NONE,88
+1,1,GART,Art Appreciation,3.0,NONE,97
+1,1,GSELF,Understanding the Self,3.0,NONE,99
+1,1,GHIST,Readings in Philippine History,3.0,NONE,65
+1,1,FIT HW,Physical Activity Towards Health and Fitness (Health and Wellness),2.0,NONE,76
+1,1,CFE 101,God’s Journey with His People,3.0,NONE,97
+1,2,IT 121,Information System Fundamentals,3.0,IT 111,0
+1,2,IT 122,Computer Programming 2,2.0,IT 112,0
+1,2,IT 122L,Computer Programming 2 (Lab),1.0,IT 112,0
+1,2,IT 123,Platform Technologies,2.0,IT 111,0
+1,2,IT 123L,Platform Technologies (Lab),1.0,IT 111,0
+1,2,GMATH,Mathematics in the Modern World,3.0,NONE,0
+1,2,GPCOM,Purposive Communication,3.0,NONE,0
+1,2,GCWORLD,The Contemporary World,3.0,NONE,0
+1,2,FIT CS,Physical Activity Towards Health and Fitness (Combative Sports),2.0,NONE,0
+1,2,CFE 102,Christian Morality in Our Times,3.0,NONE,0
+1,3,IT 131,Computer Architecture,2.0,IT 112,0
+1,3,IT 131L,Computer Architecture (Lab),1.0,IT 112,0
+1,3,GRIZAL,The Life and Works of Rizal,3.0,NONE,0
+2,1,IT 211,Requirements Analysis and Modeling,3.0,IT 121,0
+2,1,IT 212,Data Structures,2.0,IT 113 & IT 122,0
+2,1,IT 212L,Data Structures (Lab),1.0,IT 113 & IT 122,0
+2,1,IT 213,Network Fundamentals,2.0,IT 131 & IT 123,0
+2,1,IT 213L,Network Fundamentals (Lab),1.0,IT 131 & IT 123,0
+2,1,GSTS,Science Technology and Society,3.0,NONE,0
+2,1,GENVI,Environmental Science,3.0,NONE,0
+2,1,NSTP-CWTS 1,Foundations of Service,3.0,NONE,0
+2,1,FIT OA,Physical Activity Towards Health and Fitness (Outdoor and Adventure Activities),2.0,NONE,0
+2,1,CFE 103,Catholic Foundation of Mission,3.0,NONE,0
+2,2,IT 221,Information Management,2.0,IT 212,0
+2,2,IT 221L,Information Management (Lab),1.0,IT 212,0
+2,2,IT 222,Integrative Technologies,2.0,IT 122,0
+2,2,IT 222L,Integrative Technologies (Lab),1.0,IT 122,0
+2,2,IT 223,Human Computer Interaction,3.0,IT 122,0
+2,2,GENTREP,The Entrepreneurial Mind,3.0,NONE,0
+2,2,GRVA,Reading Visual Art,3.0,NONE,0
+2,2,NSTP-CWTS 2,Social Awareness and Empowerment for Service,3.0,NSTP-CWTS 1,0
+2,2,FIT AQ,Physical Activity Towards Health and Fitness (Aquatics),2.0,NONE,0
+2,2,CFE 104,CICM Missionary Identity,3.0,CFE 103,0
+2,3,CS 314,Social and Personal Development in the ICT Workplace,3.0,CS 111 & GSELF,0
+2,3,CS 315,Technology-Assisted Presentation and Presentation,3.0,CS 111 & GPCOM,0
+2,3,GETHICS,Ethics,3.0,NONE,0
+3,1,IT 311,Applications Development,2.0,IT 122,0
+3,1,IT 311L,Applications Development (Lab),1.0,IT 122,0
+3,1,IT 312,Web Technologies,2.0,IT 212,0
+3,1,IT 312L,Web Technologies (Lab),1.0,IT 212,0
+3,1,IT 313,Software Engineering,3.0,IT 211 & IT 221,0
+3,1,IT 314,Social and Professional Issues in Information Technology,3.0,GETHICS & IT 231,0
+3,1,IT 315,Technopreneurship,3.0,GENTREP & IT 211,0
+3,1,ITE,Elective 1,3.0,3rd year standing,0
+3,1,CFE 105A,CICM in Action: Justice Peace and Integrity of Creation Indigenous Peoples and Interreligious Dialogue,1.5,CFE103 & CFE 104,0
+3,2,IT 321,IT Project 1,3.0,3rd year standing,0
+3,2,IT 322,Data Analytics,2.0,IT 221,0
+3,2,IT 322L,Data Analytics (Lab),1.0,IT 221,0
+3,2,IT 323,System Administration and Maintenance,2.0,IT 213,0
+3,2,IT 323L,System Administration and Maintenance (Lab),1.0,IT 213,0
+3,2,IT 324,System Integration and Architecture,3.0,IT 211 &  IT 222,0
+3,2,IT 325,Field Trips and Seminars,3.0,3rd year standing,0
+3,2,ITE,Elective 2,3.0,3rd year standing,0
+3,2,CFE 105B,CICM in Action:Environmental Planning and Management and Disaster Risk Reduction Management,1.5,CFE 105A,0
+3,3,IT 331,Information Assurance and Security,3.0,core courses,0
+3,3,ITE,Elective 3,3.0,3rd year standing,0
+4,1,IT 411,IT Project 2,3.0,IT 321,0
+4,1,IT 412,IT Resource Management,3.0,IT 313 & IT 324,0
+4,1,FOR LANG 1,Foreign Language 1,3.0,NONE,0
+4,1,ITE,Elective 4,3.0,3rd year standing,0
+4,1,ITE,Elective 5,3.0,3rd year standing,0
+4,1,CFE 106A,Embracing the CICM Mission,1.5,CFE 105B,0
+4,2,IT 421,Practicum,9.0,4th year standing,0
+4,2,CFE 106B,Embracing the CICM Mission,1.5,CFE 106A,0
+0,0,ITE 10,Advanced Information Management,3.0,3rd year standing,0
+0,0,ITE 11,Advanced Networking,3.0,3rd year standing,0
+0,0,ITE 12,Advanced System Administration,3.0,3rd year standing,0
+0,0,ITE 13,Advanced WebTechnologies,3.0,3rd year standing,0
+0,0,ITE 14,UX Concepts and Design,3.0,3rd year standing,0
+0,0,ITE 15,IT Security Management,3.0,3rd year standing,0
+0,0,ITE 16,Data Warehousing,3.0,3rd year standing,0
+0,0,ITE 17,Data Mining,3.0,3rd year standing,0
+0,0,ITE 18,Advanced Applications Development,3.0,3rd year standing,0
+0,0,ITE 19,Knowledge Management,3.0,3rd year standing,0
+0,0,ITE 20,IT Project Planning and Management,3.0,3rd year standing,0
+0,0,ITE 21,Advanced Software Engineering,3.0,3rd year standing,0
+0,0,ITE 22,Graphics Technologies,3.0,3rd year standing,0
+0,0,ITE 23,Electronic Commerce,3.0,3rd year standing,0
+0,0,ITE 24,Mobile Computing,3.0,3rd year standing,0
+0,0,ITE 25,Intelligent Systems,3.0,3rd year standing,0
+0,0,ITE 26,Current Trends 1,3.0,3rd year standing,0
+0,0,ITE 27,Current Trends 2,3.0,3rd year standing,0
+0,0,ITE 28,Special Topics 1,3.0,3rd year standing,0
+0,0,ITE 29,Special Topics 2,3.0,3rd year standing,0
+0,0,ITE 30,Information Technology Certification Review,3.0,3rd year standing,0
